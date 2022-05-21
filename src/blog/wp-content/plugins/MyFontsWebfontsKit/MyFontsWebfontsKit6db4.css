@@ -1,0 +1,42 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4104054, 2021-06-15T16:12:22-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Recoleta-Medium by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/recoleta/medium/
+ * 
+ * Webfont: Recoleta-Regular by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/recoleta/regular/
+ * 
+ * Webfont: Recoleta-SemiBold by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/recoleta/sem-ibold/
+ * 
+ * 
+ * Webfonts copyright: Copyright &amp;#x00A9; 2018 by Jorge Cisterna. All rights reserved.
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("http://hello.myfonts.net/count/3e9f76");
+  
+@font-face {
+  font-family: "Recoleta-Regular";
+  src: url('https://www.theclickcommunity.com/blog/wp-content/plugins/MyFontsWebfontsKit/webFonts/RecoletaRegular/font.woff2') format('woff2'), url('https://www.theclickcommunity.com/blog/wp-content/plugins/MyFontsWebfontsKit/webFonts/RecoletaRegular/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Recoleta-Medium";
+  src: url('https://www.theclickcommunity.com/blog/wp-content/plugins/MyFontsWebfontsKit/webFonts/RecoletaMedium/font.woff2') format('woff2'), url('https://www.theclickcommunity.com/blog/wp-content/plugins/MyFontsWebfontsKit/webFonts/RecoletaMedium/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Recoleta-SemiBold";
+  src: url('https://www.theclickcommunity.com/blog/wp-content/plugins/MyFontsWebfontsKit/webFonts/RecoletaSemiBold/font.woff2') format('woff2'), url('https://www.theclickcommunity.com/blog/wp-content/plugins/MyFontsWebfontsKit/webFonts/RecoletaSemiBold/font.woff') format('woff');
+}
+
